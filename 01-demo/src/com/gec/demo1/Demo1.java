@@ -8,6 +8,9 @@ public interface Demo1 {
 	void master_brand();
 	// 加了 一个 test_brank() ....
 	void test_brank();
+	
+	// lisi xx放啊
+	void lisi_xxx();
 
 	
 }
