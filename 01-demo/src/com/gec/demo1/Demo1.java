@@ -10,4 +10,7 @@ public interface Demo1 {
 	// 张三提交了aa 
 	void aaa();
 	
+	// 李四提交了 lisi()
+	void lisi();
+	
 }
