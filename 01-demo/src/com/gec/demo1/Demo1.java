@@ -4,4 +4,7 @@ public interface Demo1 {
 
 	void addUser();
 	
+	// 西门庆又加了一个方法
+	void hellworld();
+	
 }
