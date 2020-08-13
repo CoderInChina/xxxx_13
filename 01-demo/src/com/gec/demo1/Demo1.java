@@ -13,4 +13,6 @@ public interface Demo1 {
 	// 李四提交了 lisi()
 	void lisi();
 	
+	void ddd();
+	
 }
