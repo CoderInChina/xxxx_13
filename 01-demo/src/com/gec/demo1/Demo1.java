@@ -8,6 +8,9 @@ public interface Demo1 {
 	void master_brand();
 	// 加了 一个 test_brank() ....
 	void test_brank();
+	
+	// 张三 加了一个xx 方法
+	void zhangsan_xxx();
 
 	
 }
