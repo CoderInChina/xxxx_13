@@ -11,6 +11,8 @@ public interface Demo1 {
 	
 	// lisi xx放啊
 	void lisi_xxx();
+	// 张三 加了一个xx 方法
+	void zhangsan_xxx();
 
 	
 }
